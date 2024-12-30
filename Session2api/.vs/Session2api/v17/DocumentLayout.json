@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\msi\\Desktop\\Session2Project\\Session2api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B210D664-1858-41DF-AA5C-95A68D7745AA}|Session2api\\Session2api.csproj|c:\\users\\msi\\desktop\\session2project\\session2api\\session2api\\models\\staffresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B210D664-1858-41DF-AA5C-95A68D7745AA}|Session2api\\Session2api.csproj|solutionrelative:session2api\\models\\staffresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B210D664-1858-41DF-AA5C-95A68D7745AA}|Session2api\\Session2api.csproj|c:\\users\\msi\\desktop\\session2project\\session2api\\session2api\\models\\staffmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B210D664-1858-41DF-AA5C-95A68D7745AA}|Session2api\\Session2api.csproj|solutionrelative:session2api\\models\\staffmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B210D664-1858-41DF-AA5C-95A68D7745AA}|Session2api\\Session2api.csproj|c:\\users\\msi\\desktop\\session2project\\session2api\\session2api\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B210D664-1858-41DF-AA5C-95A68D7745AA}|Session2api\\Session2api.csproj|solutionrelative:session2api\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B210D664-1858-41DF-AA5C-95A68D7745AA}|Session2api\\Session2api.csproj|c:\\users\\msi\\desktop\\session2project\\session2api\\session2api\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B210D664-1858-41DF-AA5C-95A68D7745AA}|Session2api\\Session2api.csproj|solutionrelative:session2api\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B210D664-1858-41DF-AA5C-95A68D7745AA}|Session2api\\Session2api.csproj|c:\\users\\msi\\desktop\\session2project\\session2api\\session2api\\entities\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B210D664-1858-41DF-AA5C-95A68D7745AA}|Session2api\\Session2api.csproj|solutionrelative:session2api\\entities\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B210D664-1858-41DF-AA5C-95A68D7745AA}|Session2api\\Session2api.csproj|c:\\users\\msi\\desktop\\session2project\\session2api\\session2api\\entities\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B210D664-1858-41DF-AA5C-95A68D7745AA}|Session2api\\Session2api.csproj|solutionrelative:session2api\\entities\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B210D664-1858-41DF-AA5C-95A68D7745AA}|Session2api\\Session2api.csproj|c:\\users\\msi\\desktop\\session2project\\session2api\\session2api\\entities\\dbroadsrusiacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B210D664-1858-41DF-AA5C-95A68D7745AA}|Session2api\\Session2api.csproj|solutionrelative:session2api\\entities\\dbroadsrusiacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B210D664-1858-41DF-AA5C-95A68D7745AA}|Session2api\\Session2api.csproj|c:\\users\\msi\\desktop\\session2project\\session2api\\session2api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B210D664-1858-41DF-AA5C-95A68D7745AA}|Session2api\\Session2api.csproj|solutionrelative:session2api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\Desktop\\Session2Project\\Session2api\\Session2api\\Entities\\Event.cs",
+              "RelativeDocumentMoniker": "Session2api\\Entities\\Event.cs",
+              "ToolTip": "C:\\Users\\msi\\Desktop\\Session2Project\\Session2api\\Session2api\\Entities\\Event.cs",
+              "RelativeToolTip": "Session2api\\Entities\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:07:02.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbRoadsRusiaContext.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\Desktop\\Session2Project\\Session2api\\Session2api\\Entities\\DbRoadsRusiaContext.cs",
+              "RelativeDocumentMoniker": "Session2api\\Entities\\DbRoadsRusiaContext.cs",
+              "ToolTip": "C:\\Users\\msi\\Desktop\\Session2Project\\Session2api\\Session2api\\Entities\\DbRoadsRusiaContext.cs",
+              "RelativeToolTip": "Session2api\\Entities\\DbRoadsRusiaContext.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:52:55.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\Desktop\\Session2Project\\Session2api\\Session2api\\Program.cs",
+              "RelativeDocumentMoniker": "Session2api\\Program.cs",
+              "ToolTip": "C:\\Users\\msi\\Desktop\\Session2Project\\Session2api\\Session2api\\Program.cs",
+              "RelativeToolTip": "Session2api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:52:49.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaffResponce.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\Desktop\\Session2Project\\Session2api\\Session2api\\Models\\StaffResponce.cs",
+              "RelativeDocumentMoniker": "Session2api\\Models\\StaffResponce.cs",
+              "ToolTip": "C:\\Users\\msi\\Desktop\\Session2Project\\Session2api\\Session2api\\Models\\StaffResponce.cs",
+              "RelativeToolTip": "Session2api\\Models\\StaffResponce.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T09:03:33.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Division.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\Desktop\\Session2Project\\Session2api\\Session2api\\Entities\\Division.cs",
+              "RelativeDocumentMoniker": "Session2api\\Entities\\Division.cs",
+              "ToolTip": "C:\\Users\\msi\\Desktop\\Session2Project\\Session2api\\Session2api\\Entities\\Division.cs",
+              "RelativeToolTip": "Session2api\\Entities\\Division.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:00:51.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaffModel.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\Desktop\\Session2Project\\Session2api\\Session2api\\Models\\StaffModel.cs",
+              "RelativeDocumentMoniker": "Session2api\\Models\\StaffModel.cs",
+              "ToolTip": "C:\\Users\\msi\\Desktop\\Session2Project\\Session2api\\Session2api\\Models\\StaffModel.cs",
+              "RelativeToolTip": "Session2api\\Models\\StaffModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T06:53:19.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\Desktop\\Session2Project\\Session2api\\Session2api\\Entities\\Staff.cs",
+              "RelativeDocumentMoniker": "Session2api\\Entities\\Staff.cs",
+              "ToolTip": "C:\\Users\\msi\\Desktop\\Session2Project\\Session2api\\Session2api\\Entities\\Staff.cs",
+              "RelativeToolTip": "Session2api\\Entities\\Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T06:34:31.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\Desktop\\Session2Project\\Session2api\\Session2api\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Session2api\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\msi\\Desktop\\Session2Project\\Session2api\\Session2api\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Session2api\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:39:31.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
